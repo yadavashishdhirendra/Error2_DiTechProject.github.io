@@ -1,0 +1,595 @@
+@media only screen and (max-width: 40em) {
+    .Listtt {
+        display: none;
+    }
+    .btn1{
+        display: none;
+    }
+    .Top_Head h1 {
+        font-size: 30px;
+    }
+    #huks_text {
+        font-size: 25px;
+    }
+    .container--wide12 {
+        top: 15px;
+    }
+    .container-wide24 h1 {
+        font-size: 30px;
+    }
+    .Footer_Logo img {
+        width: 45% !important;
+    }
+    .container--wide13 {
+        position: relative;
+        max-width: 800px;
+        padding: 0px 0px;
+        margin: auto;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        top: 45px;
+        justify-content: space-between;
+    }
+    .container-wide24 {
+        position: relative;
+        max-width: 950px;
+        padding: 0px 0px;
+        margin: auto;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        top: 200px;
+        justify-content: space-between;
+    }
+    #Tups {
+        margin-top: 14rem;
+    }
+    .container--wide15 {
+        position: relative;
+        max-width: 950px;
+        padding: 0px 0px;
+        margin: auto;
+        display: flex;
+        /* text-align: center; */
+        align-items: center;
+        top: 55px;
+        justify-content: space-between;
+    }
+    .blue-column h1 {
+        font-size: 23px;
+    }
+    .blue-column h4 {
+        font-size: 18px;
+    }
+    .Text_1 {
+        font-size: 18px;
+        text-align: center;
+    }
+    #Text_2 {
+        font-size: 8px !important;
+        text-align: center;
+    }
+    #vsyutk {
+        margin-top: 3rem;
+    }
+    #vsyuts {
+        margin-top: 3rem;
+    }
+    .superb {
+        font-size: 29px;
+        text-align: center;
+        margin: auto;
+        margin-top: 3rem;
+    }
+    .Demo {
+        border-bottom: 4px solid #423F8D;
+        border-bottom-right-radius: 40px !important;
+    }
+    .Footer_Logo img {
+        width: 45% !important;
+    }
+    .btn2 {
+        padding: 12px 22px;
+    }
+    .bodys p {
+        padding: 0.45em 0em;
+    }
+    .Testi_Title h1 {
+        font-size: 35px !important;
+    }
+    .bodys h1 {
+        font-size: 35px;
+    }
+    .blue-column h2 {
+        font-size: 23px !important;
+    }
+    .double-column h6 {
+        font-size: 17px !important;
+        text-align: left;
+        padding: 0px 0px;
+    }
+    .container--wide19 {
+        position: relative !important;
+        max-width: 508px !important;
+        padding: 0px 0px !important;
+        margin: auto !important;
+        display: flex !important;
+        /* text-align: center; */
+        align-items: center !important;
+        top: 90px !important;
+        justify-content: space-between !important;
+    }
+    .container--wide15 {
+        position: relative !important;
+        max-width: 950px !important;
+        padding: 0px 0px !important;
+        margin: auto !important;
+        display: flex !important;
+        /* text-align: center; */
+        align-items: center !important;
+        top: 90px !important;
+        justify-content: space-between !important;
+    }
+    .container--wide14 {
+        position: relative;
+        max-width: 950px;
+        padding: 0px 12px;
+        margin: auto;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        top: 45px;
+        justify-content: space-between;
+    }
+    .container--wide16 {
+        position: relative;
+        max-width: 950px;
+        padding: 0px 0px;
+        margin: auto;
+        display: flex;
+        /* text-align: center; */
+        align-items: center;
+        top: 90px;
+        justify-content: space-between;
+    }
+    .container--wide17 {
+        position: relative;
+        max-width: 1600px;
+        padding: 0px 0px;
+        margin: auto;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        top: 125px;
+        justify-content: space-between;
+    }
+}
+
+/* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+@media only screen and (min-width: 40.063em) {
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        /* box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px; */
+        margin: auto;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        top: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 2em;
+    }
+}
+
+/* min-width 641px, medium screens */
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+    #vsyuts {
+        margin-top: 1rem;
+    }
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        /* box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px; */
+        margin: auto;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        top: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 2em;
+    }
+}
+
+/* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+
+@media only screen and (min-width: 64.063em) {
+    .ketu {
+        width: 5% !important;
+    }
+    .container--wide19 {
+        position: relative;
+        max-width: 950px;
+        padding: 0px 0px;
+        margin: auto;
+        display: flex;
+        /* text-align: center; */
+        align-items: center;
+        top: 160px;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        /* box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px; */
+        margin: auto;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        top: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 2em;
+        vertical-align: middle;
+    }
+}
+
+/* Desktops and laptops ----------- */
+
+/*1280 x 800*/
+
+@media screen and (max-width: 1280px) and (max-height: 800px) and (min-height: 769px) {
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        margin: auto;
+        display: flex;
+        /* box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px; */
+        text-align: center;
+        align-items: center;
+        top: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 2em;
+    }
+}
+
+/*1280 x 960*/
+
+@media screen and (max-width: 1280px) and (max-height: 960px) and (min-height: 801px) {
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        margin: auto;
+        display: flex;
+        /* box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px; */
+        text-align: center;
+        align-items: center;
+        top: 50px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 2em;
+    }
+}
+
+/* (1280x720) Galaxy Note 2, WXGA */
+
+@media only screen and (min-device-width: 720px) and (max-device-width: 1280px) {
+    .container--wide19 {
+        position: relative !important;
+        max-width: 508px !important;
+        padding: 0px 0px !important;
+        margin: 1em 10em !important;
+        display: flex !important;
+        /* text-align: center; */
+        align-items: center !important;
+        top: 160px !important;
+        justify-content: space-between !important;
+    }
+    .ketu {
+        width: 10% !important;
+    }
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        margin: auto;
+        display: flex;
+        box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+        text-align: center;
+        align-items: center;
+        top: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 2em;
+    }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    /* STYLES GO HERE */
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        margin: auto;
+        display: flex;
+        box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+        text-align: center;
+        align-items: center;
+        top: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 2em;
+    }
+}
+
+/* iPads (portrait) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+    /* STYLES GO HERE */
+    .container--wide21 {
+        position: relative;
+        max-width: 1600px;
+        padding: 7px 0px;
+        margin: auto;
+        display: flex;
+        text-align: center;
+        box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+        align-items: center;
+        top: 5px;
+        justify-content: center;
+        align-items: center;
+    }
+    .container--wide21 li {
+        display: inline;
+    }
+    .container--wide21 li a {
+        text-decoration: none;
+        color: #423F8D;
+        font-weight: 600;
+    }
+    :root {
+        --mainColor: #423F8D;
+    }
+    .Vsytz {
+        background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+        background-position: 0 100%;
+        background-repeat: repeat-x;
+        background-size: 0px 0px;
+        transition: background-size .6s;
+        padding: 3px 5px;
+        color: #423F8D;
+        text-decoration: none;
+    }
+    .Vsytz:hover {
+        background-size: 4px 50px;
+        color: white;
+        box-shadow: 0px 3px 4px white;
+    }
+    .Listtt ul li {
+        padding: 0em 1em;
+    }
+}
+
+
+@media only screen and (min-width: 64.063em) and (max-width: 90em) {}
+
+/* min-width 1024px and max-width 1440px, use when QAing large screen-only issues */
+
+@media only screen and (min-width: 90.063em) {}
+
+/* min-width 1441px, xlarge screens */
+
+@media only screen and (min-width: 90.063em) and (max-width: 120em) {}
+
+/* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
+
+@media only screen and (min-width: 120.063em) {}
+
+/* min-width 1921px, xlarge screens */
